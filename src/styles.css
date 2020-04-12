@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+h1{
+  margin-bottom: 30px;
+  color: #333;
+}
+
 body {
   font-size: 14px;
 }
